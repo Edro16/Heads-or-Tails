@@ -1,4 +1,5 @@
 # Heads-or-Tails
 A heads or tails game.
 
-<img width="841" height="592" alt="image" src="https://github.com/user-attachments/assets/b7f3ff4f-3402-4554-a993-9f4e6a485978" />
+<img width="718" height="592" alt="image" src="https://github.com/user-attachments/assets/a281feca-6b8f-4141-87bb-2f196a3baaac" />
+
